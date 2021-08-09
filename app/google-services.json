@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99913660386",
+    "project_id": "netflixcolne-b689b",
+    "storage_bucket": "netflixcolne-b689b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99913660386:android:f5934fbbbd98dd5ea76bbb",
+        "android_client_info": {
+          "package_name": "com.lorena.netiflixclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99913660386-or6lie8cdm19h9rivos1h8rcro9q6aup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClPFQA77192UY7HOsm6jCfLxJgplH-17w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99913660386-or6lie8cdm19h9rivos1h8rcro9q6aup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

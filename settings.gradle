@@ -1,0 +1,2 @@
+rootProject.name = "NetiflixClone"
+include ':app'
